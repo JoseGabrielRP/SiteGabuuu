@@ -1,0 +1,54 @@
+#mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
+  color: rgb(61,180,242);
+}
+
+a, a:hover {
+  color: rgb(61,180,242);
+}
+
+a:hover {
+  color: rgb(61,180,242);
+  text-decoration: underline;
+}
+
+#mainNav.navbar-shrink .navbar-brand, #mainNav.navbar-shrink .navbar-brand:focus, #mainNav.navbar-shrink .navbar-brand:hover {
+  color: rgb(61,180,242);
+}
+
+#mainNav .navbar-nav > li.nav-item > a.nav-link.active, #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active {
+  color: #3db4f2 !important;
+  background-color: transparent;
+}
+
+.bg-primary {
+  background-color: rgb(61,180,242)!important;
+}
+
+#mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:hover {
+  color: #3db4f2;
+}
+
+#mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover, #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:hover {
+  color: #3db4f2;
+}
+
+align {
+}
+
+.ovo {
+  align-items: center;
+  margin: 0px;
+}
+
+.ovo {
+  position: absolute;
+  left: 210px;
+  bottom: 0px;
+}
+
+ovo {
+  position: absolute;
+  left: -210px;
+  bottom: 0px;
+}
+
