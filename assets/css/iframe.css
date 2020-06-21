@@ -5,3 +5,9 @@ iframe {
   overflow: hidden;
 }
 
+#mainNav .navbar-brand {
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #d1d9da;
+}
+
