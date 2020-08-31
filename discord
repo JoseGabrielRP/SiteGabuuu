@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<script language=javascript>
+function redirect(){
+  window.location = "discord.gavuriiru.wtf";
+}
+</script>
+
+<body onload="redirect()">
+
+</body>
+</html> 
